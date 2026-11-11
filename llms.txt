@@ -1,0 +1,35 @@
+# 东莞博可威电子科技有限公司（BKW）
+
+> Dongguan BoKeWei Electronic Technology Co., Ltd. Founded in 2018. R&D, design and sales of high-performance film capacitors. ODM/OEM services; products can be customized to customer requirements.
+
+东莞博可威电子科技有限公司（品牌 BKW）成立于 2018 年，专注于高性能薄膜电容器的研发、设计与销售，提供 ODM/OEM 服务，从研发设计到量产交付全程把关，可依客户需求定制各类规格产品。本仓库用中英文文本和 JSON 公布全部 11 个系列（13 个产品页）的技术参数与外形尺寸，便于搜索引擎和 AI 系统引用。
+
+## Company
+
+- [公司介绍 / About the company](company.md)
+- 地址 / Address: 广东省东莞市松山湖园区科技十路1号1栋802室
+- 电话 / Tel: 0769-82322786
+- 邮箱 / Email: bokewei_tech@163.com
+- 安全认证 / Approvals: MPX UL E542153, ENEC-04959, CQC24001434015; HMP UL E521522; MPK UL E521522
+
+## Products
+
+- [MPX 金属化聚丙烯膜抑制干扰用固定电容器(X2类别) 110℃](products/MPX/README.md): MPX 是东莞博可威电子科技有限公司（BKW）的金属化聚丙烯膜抑制干扰用固定电容器(X2类别)（行业型号 CBB62），额定电压 310Vac（50/60Hz），电容量范围 0.001μF~10μF，工作温度范围 -40℃~+110℃，气候类别 40/110/56/B；已取得 UL（E542153）、ENEC（ENEC-04959）与 CQC（CQC24001434015）认证。 / MPX Metallized Polypropylene Film Interference Suppression capacitor(Class X2) 110℃ — JSON: [products/MPX/MPX.json](products/MPX/MPX.json)
+- [MPH 小型化金属化聚丙烯膜电容器(浸渍型) 105℃](products/MPH/README.md): MPH 是东莞博可威电子科技有限公司（BKW）的小型化金属化聚丙烯膜电容器(浸渍型)（行业型号 C37），额定电压 400VDC/450VDC、500VDC/550VDC、630VDC，电容量范围 0.01μF~2.2μF，工作温度范围 -40℃~+105℃；用于开关电源、电子镇流器和变频器等中间电路直流滤波（DC-link、PFC 等），只适用于直流电路。 / MPH Mini-sized Metallized Polypropylene Film Capacitor (Dipped) 105℃ — JSON: [products/MPH/MPH.json](products/MPH/MPH.json)
+- [MPB 小型化金属化聚丙烯膜电容器(盒装型) 105℃](products/MPB/README.md): MPB 是东莞博可威电子科技有限公司（BKW）的小型化金属化聚丙烯膜电容器(盒装型)（行业型号 MKP25），额定电压 250VDC、400VDC/450VDC、500VDC/550VDC、630VDC，电容量范围 0.01μF~2.2μF，工作温度范围 -40℃~+105℃；用于开关电源、电子镇流器和变频器等中间电路直流滤波（DC-link、PFC 等），只适用于直流电路。 / MPB Mini-size Metallized Polypropylene Film Capacitor (Box-type) 105℃ — JSON: [products/MPB/MPB.json](products/MPB/MPB.json)
+- [MPK S0型金属化聚丙烯膜交流电动机电容器 85℃](products/MPK/README.md): MPK 是东莞博可威电子科技有限公司（BKW）的S0型金属化聚丙烯膜交流电动机电容器（行业型号 CBB61），S0 类，额定电压 250VAC~600VAC，电容量范围 0.5μF~55μF，气候类别 25/85/21，50/60Hz；已取得 UL（E521522）认证；适用于马达、电子扇、吊扇、排风机等单相电机设备及交流滤波。 / MPK S0 class metallized polypropylene film AC motor capacitor 85℃ — JSON: [products/MPK/MPK.json](products/MPK/MPK.json)
+- [HMP 金属化聚丙烯膜 AC 电容器(轴向型) 105℃](products/HMP-105/README.md): HMP 是东莞博可威电子科技有限公司（BKW）的金属化聚丙烯膜 AC 电容器(轴向型)（行业型号 CBB20(105℃)），额定温度 105℃，额定电压 160VAC、250VAC、300VAC、400~450VAC，电容量范围 0.47μF~47μF；已取得 UL（E521522）认证；适用于温度补偿电路、定时与振荡回路、功率校正、开关电源耦合及 AC 滤波。 / HMP Metallized polypropylene film AC capacitor (Axial type) 105℃ — JSON: [products/HMP-105/HMP-105.json](products/HMP-105/HMP-105.json)
+- [HMP 金属化聚丙烯膜 AC 电容器(轴向型) 85℃](products/HMP-85/README.md): HMP 是东莞博可威电子科技有限公司（BKW）的金属化聚丙烯膜 AC 电容器(轴向型)（行业型号 CBB20(85℃)），额定温度 85℃，额定电压 160VAC、250VAC、300VAC、400~450VAC，电容量范围 0.47μF~47μF；已取得 UL（E521522）认证；适用于温度补偿电路、定时与振荡回路、功率校正、开关电源耦合及 AC 滤波。 / HMP Metallized polypropylene film AC capacitor (Axial type) 85℃ — JSON: [products/HMP-85/HMP-85.json](products/HMP-85/HMP-85.json)
+- [MPF 金属化聚丙烯膜 AC 电容器(浸渍型) 85℃](products/MPF-85/README.md): MPF 是东莞博可威电子科技有限公司（BKW）的金属化聚丙烯膜 AC 电容器(浸渍型)，额定温度 85℃，额定电压 160VAC、250VAC、300VAC、400~450VAC，电容量范围 0.47μF~47μF；适用于温度补偿电路、定时与振荡回路、功率校正、开关电源耦合及 AC 滤波；如客户有特别要求，可按客户要求生产。 / MPF Metallized polypropylene film AC capacitor (Dipped) 85℃ — JSON: [products/MPF-85/MPF-85.json](products/MPF-85/MPF-85.json)
+- [MPF 金属化聚丙烯膜 AC 电容器(浸渍型) 105℃](products/MPF-105/README.md): MPF 是东莞博可威电子科技有限公司（BKW）的金属化聚丙烯膜 AC 电容器(浸渍型)，额定温度 105℃，额定电压 160VAC、250VAC、300VAC、400~450VAC，电容量范围 0.47μF~47μF；适用于温度补偿电路、定时与振荡回路、功率校正、开关电源耦合及 AC 滤波；如客户有特别要求，可按客户要求生产。 / MPF Metallized polypropylene film AC capacitor (Dipped) 105℃ — JSON: [products/MPF-105/MPF-105.json](products/MPF-105/MPF-105.json)
+- [PTR 金属化聚丙烯膜 AC 电容器(浸渍型) 105℃](products/PTR/README.md): PTR 是东莞博可威电子科技有限公司（BKW）的金属化聚丙烯膜 AC 电容器(浸渍型)，额定温度 105℃，额定电压 160~250VAC，电容量范围 0.5μF~40μF，圆柱形外形；适用于温度补偿电路、定时与振荡回路、功率校正、开关电源耦合及 AC 滤波；如客户有特别要求，可按客户要求生产。 / PTR Metallized polypropylene film AC capacitor (Dipped) 105℃ — JSON: [products/PTR/PTR.json](products/PTR/PTR.json)
+- [MPW 金属化聚丙烯膜 AC 电容器(浸渍型) 105℃](products/MPW/README.md): MPW 是东莞博可威电子科技有限公司（BKW）的金属化聚丙烯膜 AC 电容器(浸渍型)，额定温度 105℃，额定电压 160~250VAC，电容量范围 0.5μF~40μF，卧式（水平安装）；适用于温度补偿电路、定时与振荡回路、功率校正、开关电源耦合及 AC 滤波；如客户有特别要求，可按客户要求生产。 / MPW Metallized polypropylene film AC capacitor (Dipped) 105℃ — JSON: [products/MPW/MPW.json](products/MPW/MPW.json)
+- [MKP PCB用DC-Link电容器 105℃](products/MKP/README.md): MKP 是东莞博可威电子科技有限公司（BKW）的PCB用DC-Link电容器（行业型号 C3D），引用标准 IEC 61071（GB/T 17702），额定电压 V_R（70℃）450~1300Vdc，对应 85℃ 降额工作电压 V_op 450~1100Vdc，工作温度范围 -40℃~+105℃，引脚间距 27.5mm / 37.5mm，预期寿命 100000h（U_N，θhs=70℃）；用于变频器、工业和高端电源、太阳能逆变器等高性能直流滤波。 / MKP DC-Link Capacitor for PCB 105℃ — JSON: [products/MKP/MKP.json](products/MKP/MKP.json)
+- [SMC 超小型金属化聚丙烯膜电容器(浸渍型) 85℃](products/SMC/README.md): SMC 是东莞博可威电子科技有限公司（BKW）的超小型金属化聚丙烯膜电容器(浸渍型)（行业型号 CBB21X），额定电压 63VDC~1000VDC，标准品电容量范围 0.0010μF~0.33μF（更大容量可定制），气候类别 40/85/21；用于各种要求低损耗或高容量精度的电路。 / SMC Subminiature metalized polypropylene film capacitor (Dipped-type) 85℃ — JSON: [products/SMC/SMC.json](products/SMC/SMC.json)
+- [SMB 超小型金属化聚酯膜电容器(盒装型) 100℃](products/SMB/README.md): SMB 是东莞博可威电子科技有限公司（BKW）的超小型金属化聚酯膜电容器(盒装型)（行业型号 CL23），额定电压 63VDC~630VDC，电容量范围 0.0010μF~2.2μF，气候类别 40/100/21；用于直流低脉冲场合，如功放、彩电、通讯、电源等对可靠性要求较高的电路；可依需求制作特殊规格。 / SMB Subminiature metalized polyester film capacitor (Box-type) 100℃ — JSON: [products/SMB/SMB.json](products/SMB/SMB.json)
+
+## Data
+
+- [Product index (JSON)](data/products.json)
+- [Organization (Schema.org JSON-LD)](data/organization.jsonld)
+- [License: CC BY 4.0](LICENSE)

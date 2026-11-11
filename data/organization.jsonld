@@ -1,0 +1,313 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "东莞博可威电子科技有限公司",
+  "legalName": "东莞博可威电子科技有限公司",
+  "alternateName": [
+    "Dongguan BoKeWei Electronic Technology Co., Ltd",
+    "BKW",
+    "博可威"
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "BKW"
+  },
+  "foundingDate": "2018",
+  "description": "东莞博可威电子科技有限公司（BKW）成立于2018年，专注于高性能薄膜电容器的研发、设计与销售，提供ODM/OEM服务，从研发设计到量产交付全程把关，可依客户需求定制各类规格产品。客户遍及华南、华东等多个省份。 Dongguan BoKeWei Electronic Technology Co., Ltd (BKW), founded in 2018, focuses on the R&D, design and sales of high-performance film capacitors and provides ODM/OEM services, overseeing the process from design through to volume delivery. Customers are located across multiple provinces in South and East China.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "科技十路1号1栋802室",
+    "addressLocality": "东莞市",
+    "addressRegion": "广东省",
+    "addressCountry": "CN"
+  },
+  "telephone": "+86-769-82322786",
+  "email": "bokewei_tech@163.com",
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "华南"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "华东"
+    }
+  ],
+  "knowsAbout": [
+    "薄膜电容器",
+    "film capacitors",
+    "metallized polypropylene film capacitors",
+    "metallized polyester film capacitors",
+    "X2 interference suppression capacitors",
+    "DC-Link capacitors",
+    "AC motor capacitors",
+    "ODM",
+    "OEM"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "BKW film capacitor series",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Product",
+          "name": "MPX 金属化聚丙烯膜抑制干扰用固定电容器(X2类别) 110℃",
+          "alternateName": "MPX Metallized Polypropylene Film Interference Suppression capacitor(Class X2) 110℃",
+          "sku": "MPX",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Metallized Polypropylene Film Interference Suppression capacitor(Class X2)",
+          "description": "BKW MPX: Metallized Polypropylene Film Interference Suppression capacitor(Class X2) (industry code CBB62). Rated voltage 310Vac (50/60Hz), capacitance 0.001μF–10μF, operating temperature -40℃ to +110℃, climatic category 40/110/56/B; approved by UL (E542153), ENEC (ENEC-04959) and CQC (CQC24001434015)."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "Product",
+          "name": "MPH 小型化金属化聚丙烯膜电容器(浸渍型) 105℃",
+          "alternateName": "MPH Mini-sized Metallized Polypropylene Film Capacitor (Dipped) 105℃",
+          "sku": "MPH",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Mini-sized Metallized Polypropylene Film Capacitor (Dipped)",
+          "description": "BKW MPH: Mini-sized Metallized Polypropylene Film Capacitor (Dipped) (industry code C37). Rated voltage 400/450VDC, 500/550VDC and 630VDC, capacitance 0.01μF–2.2μF, operating temperature -40℃ to +105℃; for DC filtering in SMPS, electronic ballasts and inverters (DC-link, PFC). DC circuits only."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "Product",
+          "name": "MPB 小型化金属化聚丙烯膜电容器(盒装型) 105℃",
+          "alternateName": "MPB Mini-size Metallized Polypropylene Film Capacitor (Box-type) 105℃",
+          "sku": "MPB",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Mini-size Metallized Polypropylene Film Capacitor (Box-type)",
+          "description": "BKW MPB: Mini-size Metallized Polypropylene Film Capacitor (Box-type) (industry code MKP25). Rated voltage 250VDC, 400/450VDC, 500/550VDC and 630VDC, capacitance 0.01μF–2.2μF, operating temperature -40℃ to +105℃; for DC filtering in SMPS, electronic ballasts and inverters (DC-link, PFC). DC circuits only."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "Product",
+          "name": "MPK S0型金属化聚丙烯膜交流电动机电容器 85℃",
+          "alternateName": "MPK S0 class metallized polypropylene film AC motor capacitor 85℃",
+          "sku": "MPK",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "S0 class metallized polypropylene film AC motor capacitor",
+          "description": "BKW MPK: S0 class metallized polypropylene film AC motor capacitor (industry code CBB61). Class S0, rated voltage 250–600VAC, capacitance 0.5μF–55μF, climatic category 25/85/21, 50/60Hz; UL approved (E521522); for single-phase motors (fans, ceiling fans, exhaust fans) and AC filtering."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "Product",
+          "name": "HMP 金属化聚丙烯膜 AC 电容器(轴向型) 105℃",
+          "alternateName": "HMP Metallized polypropylene film AC capacitor (Axial type) 105℃",
+          "sku": "HMP-105",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Metallized polypropylene film AC capacitor (Axial type)",
+          "description": "BKW HMP: Metallized polypropylene film AC capacitor (Axial type) (industry code CBB20(105℃)). Rated temperature 105℃, rated voltage 160, 250, 300 and 400–450VAC, capacitance 0.47μF–47μF; UL approved (E521522); for temperature compensation, timing and oscillator circuits, power factor correction, SMPS coupling and AC filtering."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "Product",
+          "name": "HMP 金属化聚丙烯膜 AC 电容器(轴向型) 85℃",
+          "alternateName": "HMP Metallized polypropylene film AC capacitor (Axial type) 85℃",
+          "sku": "HMP-85",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Metallized polypropylene film AC capacitor (Axial type)",
+          "description": "BKW HMP: Metallized polypropylene film AC capacitor (Axial type) (industry code CBB20(85℃)). Rated temperature 85℃, rated voltage 160, 250, 300 and 400–450VAC, capacitance 0.47μF–47μF; UL approved (E521522); for temperature compensation, timing and oscillator circuits, power factor correction, SMPS coupling and AC filtering."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "Product",
+          "name": "MPF 金属化聚丙烯膜 AC 电容器(浸渍型) 85℃",
+          "alternateName": "MPF Metallized polypropylene film AC capacitor (Dipped) 85℃",
+          "sku": "MPF-85",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Metallized polypropylene film AC capacitor (Dipped)",
+          "description": "BKW MPF: Metallized polypropylene film AC capacitor (Dipped). Rated temperature 85℃, rated voltage 160, 250, 300 and 400–450VAC, capacitance 0.47μF–47μF; for temperature compensation, timing and oscillator circuits, power factor correction, SMPS coupling and AC filtering. Special requirements can be produced to customer specification."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "Product",
+          "name": "MPF 金属化聚丙烯膜 AC 电容器(浸渍型) 105℃",
+          "alternateName": "MPF Metallized polypropylene film AC capacitor (Dipped) 105℃",
+          "sku": "MPF-105",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Metallized polypropylene film AC capacitor (Dipped)",
+          "description": "BKW MPF: Metallized polypropylene film AC capacitor (Dipped). Rated temperature 105℃, rated voltage 160, 250, 300 and 400–450VAC, capacitance 0.47μF–47μF; for temperature compensation, timing and oscillator circuits, power factor correction, SMPS coupling and AC filtering. Special requirements can be produced to customer specification."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "item": {
+          "@type": "Product",
+          "name": "PTR 金属化聚丙烯膜 AC 电容器(浸渍型) 105℃",
+          "alternateName": "PTR Metallized polypropylene film AC capacitor (Dipped) 105℃",
+          "sku": "PTR",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Metallized polypropylene film AC capacitor (Dipped)",
+          "description": "BKW PTR: Metallized polypropylene film AC capacitor (Dipped). Rated temperature 105℃, rated voltage 160–250VAC, capacitance 0.5μF–40μF, cylindrical body; for temperature compensation, timing and oscillator circuits, power factor correction, SMPS coupling and AC filtering. Special requirements can be produced to customer specification."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "item": {
+          "@type": "Product",
+          "name": "MPW 金属化聚丙烯膜 AC 电容器(浸渍型) 105℃",
+          "alternateName": "MPW Metallized polypropylene film AC capacitor (Dipped) 105℃",
+          "sku": "MPW",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Metallized polypropylene film AC capacitor (Dipped)",
+          "description": "BKW MPW: Metallized polypropylene film AC capacitor (Dipped). Rated temperature 105℃, rated voltage 160–250VAC, capacitance 0.5μF–40μF, horizontal-mount type; for temperature compensation, timing and oscillator circuits, power factor correction, SMPS coupling and AC filtering. Special requirements can be produced to customer specification."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 11,
+        "item": {
+          "@type": "Product",
+          "name": "MKP PCB用DC-Link电容器 105℃",
+          "alternateName": "MKP DC-Link Capacitor for PCB 105℃",
+          "sku": "MKP",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "DC-Link Capacitor for PCB",
+          "description": "BKW MKP: DC-Link Capacitor for PCB (industry code C3D). Reference standard IEC 61071 (GB/T 17702), rated voltage V_R 450–1300Vdc at 70℃, derated to operating voltage V_op 450–1100Vdc at 85℃, operating temperature -40℃ to +105℃, lead spacing 27.5 / 37.5 mm, expected lifetime 100000 h (U_N, θhs=70℃); for high-performance DC filtering in drives, industrial and high-end power supplies and solar inverters."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 12,
+        "item": {
+          "@type": "Product",
+          "name": "SMC 超小型金属化聚丙烯膜电容器(浸渍型) 85℃",
+          "alternateName": "SMC Subminiature metalized polypropylene film capacitor (Dipped-type) 85℃",
+          "sku": "SMC",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Subminiature metalized polypropylene film capacitor (Dipped-type)",
+          "description": "BKW SMC: Subminiature metalized polypropylene film capacitor (Dipped-type) (industry code CBB21X). Rated voltage 63–1000VDC, standard capacitance 0.0010μF–0.33μF (larger values available as custom products), climatic category 40/85/21; for circuits requiring low loss or high capacitance accuracy."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 13,
+        "item": {
+          "@type": "Product",
+          "name": "SMB 超小型金属化聚酯膜电容器(盒装型) 100℃",
+          "alternateName": "SMB Subminiature metalized polyester film capacitor (Box-type) 100℃",
+          "sku": "SMB",
+          "brand": {
+            "@type": "Brand",
+            "name": "BKW"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "东莞博可威电子科技有限公司"
+          },
+          "category": "Subminiature metalized polyester film capacitor (Box-type)",
+          "description": "BKW SMB: Subminiature metalized polyester film capacitor (Box-type) (industry code CL23). Rated voltage 63–630VDC, capacitance 0.0010μF–2.2μF, climatic category 40/100/21; for DC low-pulse applications such as amplifiers, TVs, communications and power supplies requiring high reliability. Special specifications on request."
+        }
+      }
+    ]
+  }
+}

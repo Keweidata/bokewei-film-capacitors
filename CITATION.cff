@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Dongguan BoKeWei Electronic Technology Co., Ltd (BKW) Film Capacitor Datasheets"
+message: "If you use this product data, please cite it as below."
+type: dataset
+authors:
+  - name: "东莞博可威电子科技有限公司"
+    alias: "Dongguan BoKeWei Electronic Technology Co., Ltd"
+    email: "bokewei_tech@163.com"
+    city: "Dongguan"
+    region: "Guangdong"
+    country: "CN"
+repository-code: "https://github.com/Keweidata/bokewei-film-capacitors"
+license: CC-BY-4.0
+keywords:
+  - film capacitor
+  - metallized polypropylene
+  - metallized polyester
+  - BKW
+  - BoKeWei
+  - 薄膜电容器
+  - 博可威
+abstract: >
+  Public, bilingual (Chinese/English) technical documentation of BKW
+  film capacitor series (MPX, MPH, MPB, MPK, HMP, MPF, PTR, MPW, MKP, SMC, SMB)
+  published by Dongguan BoKeWei Electronic Technology Co., Ltd.
