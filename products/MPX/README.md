@@ -11,6 +11,7 @@
 - 类型 / Type: 金属化聚丙烯膜抑制干扰用固定电容器(X2类别) / Metallized Polypropylene Film Interference Suppression capacitor(Class X2)
 - 认证 / Approvals: CQC CQC24001434015；ENEC-DEMKO ENEC-04959；UL/CUL E542153
 - 结构化数据 / Structured data: [`MPX.json`](./MPX.json)
+- 规格书 PDF / Datasheet PDF: [`BKW_MPX_规格书.pdf`](./BKW_MPX_规格书.pdf)
 
 ## 概述 / Overview
 

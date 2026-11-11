@@ -9,6 +9,7 @@
 - 额定温度 / Rated temperature: 105℃
 - 类型 / Type: 金属化聚丙烯膜 AC 电容器(浸渍型) / Metallized polypropylene film AC capacitor (Dipped)
 - 结构化数据 / Structured data: [`MPW.json`](./MPW.json)
+- 规格书 PDF / Datasheet PDF: [`BKW_MPW_规格书.pdf`](./BKW_MPW_规格书.pdf)
 
 ## 概述 / Overview
 

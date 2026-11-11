@@ -49,7 +49,8 @@
       "path": "products/MPX/",
       "readme": "products/MPX/README.md",
       "json": "products/MPX/MPX.json",
-      "photo": "images/MPX.jpg"
+      "photo": "images/MPX.jpg",
+      "datasheet_pdf": "products/MPX/BKW_MPX_规格书.pdf"
     },
     {
       "key": "MPH",
@@ -69,7 +70,8 @@
       "path": "products/MPH/",
       "readme": "products/MPH/README.md",
       "json": "products/MPH/MPH.json",
-      "photo": "images/MPH.jpg"
+      "photo": "images/MPH.jpg",
+      "datasheet_pdf": "products/MPH/BKW_MPH_规格书.pdf"
     },
     {
       "key": "MPB",
@@ -89,7 +91,8 @@
       "path": "products/MPB/",
       "readme": "products/MPB/README.md",
       "json": "products/MPB/MPB.json",
-      "photo": "images/MPB.jpg"
+      "photo": "images/MPB.jpg",
+      "datasheet_pdf": "products/MPB/BKW_MPB_规格书.pdf"
     },
     {
       "key": "MPK",
@@ -116,7 +119,8 @@
       "path": "products/MPK/",
       "readme": "products/MPK/README.md",
       "json": "products/MPK/MPK.json",
-      "photo": "images/MPK.jpg"
+      "photo": "images/MPK.jpg",
+      "datasheet_pdf": "products/MPK/BKW_MPK_规格书.pdf"
     },
     {
       "key": "HMP-105",
@@ -143,7 +147,8 @@
       "path": "products/HMP-105/",
       "readme": "products/HMP-105/README.md",
       "json": "products/HMP-105/HMP-105.json",
-      "photo": "images/HMP.jpg"
+      "photo": "images/HMP.jpg",
+      "datasheet_pdf": "products/HMP-105/BKW_HMP-105_规格书.pdf"
     },
     {
       "key": "HMP-85",
@@ -170,7 +175,8 @@
       "path": "products/HMP-85/",
       "readme": "products/HMP-85/README.md",
       "json": "products/HMP-85/HMP-85.json",
-      "photo": "images/HMP.jpg"
+      "photo": "images/HMP.jpg",
+      "datasheet_pdf": "products/HMP-85/BKW_HMP-85_规格书.pdf"
     },
     {
       "key": "MPF-85",
@@ -190,7 +196,8 @@
       "path": "products/MPF-85/",
       "readme": "products/MPF-85/README.md",
       "json": "products/MPF-85/MPF-85.json",
-      "photo": "images/MPF.jpg"
+      "photo": "images/MPF.jpg",
+      "datasheet_pdf": "products/MPF-85/BKW_MPF-85_规格书.pdf"
     },
     {
       "key": "MPF-105",
@@ -210,7 +217,8 @@
       "path": "products/MPF-105/",
       "readme": "products/MPF-105/README.md",
       "json": "products/MPF-105/MPF-105.json",
-      "photo": "images/MPF.jpg"
+      "photo": "images/MPF.jpg",
+      "datasheet_pdf": "products/MPF-105/BKW_MPF-105_规格书.pdf"
     },
     {
       "key": "PTR",
@@ -230,7 +238,8 @@
       "path": "products/PTR/",
       "readme": "products/PTR/README.md",
       "json": "products/PTR/PTR.json",
-      "photo": "images/PTR.jpg"
+      "photo": "images/PTR.jpg",
+      "datasheet_pdf": "products/PTR/BKW_PTR_规格书.pdf"
     },
     {
       "key": "MPW",
@@ -250,7 +259,8 @@
       "path": "products/MPW/",
       "readme": "products/MPW/README.md",
       "json": "products/MPW/MPW.json",
-      "photo": "images/MPW.jpg"
+      "photo": "images/MPW.jpg",
+      "datasheet_pdf": "products/MPW/BKW_MPW_规格书.pdf"
     },
     {
       "key": "MKP",
@@ -270,7 +280,8 @@
       "path": "products/MKP/",
       "readme": "products/MKP/README.md",
       "json": "products/MKP/MKP.json",
-      "photo": "images/MKP.jpg"
+      "photo": "images/MKP.jpg",
+      "datasheet_pdf": "products/MKP/BKW_MKP_规格书.pdf"
     },
     {
       "key": "SMC",
@@ -290,7 +301,8 @@
       "path": "products/SMC/",
       "readme": "products/SMC/README.md",
       "json": "products/SMC/SMC.json",
-      "photo": "images/SMC.jpg"
+      "photo": "images/SMC.jpg",
+      "datasheet_pdf": "products/SMC/BKW_SMC_规格书.pdf"
     },
     {
       "key": "SMB",
@@ -310,7 +322,8 @@
       "path": "products/SMB/",
       "readme": "products/SMB/README.md",
       "json": "products/SMB/SMB.json",
-      "photo": "images/SMB.jpg"
+      "photo": "images/SMB.jpg",
+      "datasheet_pdf": "products/SMB/BKW_SMB_规格书.pdf"
     }
   ]
 }

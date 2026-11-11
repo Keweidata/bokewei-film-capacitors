@@ -10,6 +10,7 @@
 - 额定温度 / Rated temperature: 105℃
 - 类型 / Type: 小型化金属化聚丙烯膜电容器(浸渍型) / Mini-sized Metallized Polypropylene Film Capacitor (Dipped)
 - 结构化数据 / Structured data: [`MPH.json`](./MPH.json)
+- 规格书 PDF / Datasheet PDF: [`BKW_MPH_规格书.pdf`](./BKW_MPH_规格书.pdf)
 
 ## 概述 / Overview
 

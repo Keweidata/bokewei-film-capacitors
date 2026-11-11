@@ -11,6 +11,7 @@
 - 类型 / Type: S0型金属化聚丙烯膜交流电动机电容器 / S0 class metallized polypropylene film AC motor capacitor
 - 认证 / Approvals: UL/CUL E521522
 - 结构化数据 / Structured data: [`MPK.json`](./MPK.json)
+- 规格书 PDF / Datasheet PDF: [`BKW_MPK_规格书.pdf`](./BKW_MPK_规格书.pdf)
 
 ## 概述 / Overview
 

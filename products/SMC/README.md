@@ -10,6 +10,7 @@
 - 额定温度 / Rated temperature: 85℃
 - 类型 / Type: 超小型金属化聚丙烯膜电容器(浸渍型) / Subminiature metalized polypropylene film capacitor (Dipped-type)
 - 结构化数据 / Structured data: [`SMC.json`](./SMC.json)
+- 规格书 PDF / Datasheet PDF: [`BKW_SMC_规格书.pdf`](./BKW_SMC_规格书.pdf)
 
 ## 概述 / Overview
 

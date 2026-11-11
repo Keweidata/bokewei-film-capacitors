@@ -10,6 +10,7 @@
 - 类型 / Type: 金属化聚丙烯膜 AC 电容器(浸渍型) / Metallized polypropylene film AC capacitor (Dipped)
 - 同系列其他版本 / Other versions in this series: [MPF-105](../MPF-105/)
 - 结构化数据 / Structured data: [`MPF-85.json`](./MPF-85.json)
+- 规格书 PDF / Datasheet PDF: [`BKW_MPF-85_规格书.pdf`](./BKW_MPF-85_规格书.pdf)
 
 ## 概述 / Overview
 

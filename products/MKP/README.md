@@ -10,6 +10,7 @@
 - 额定温度 / Rated temperature: 105℃
 - 类型 / Type: PCB用DC-Link电容器 / DC-Link Capacitor for PCB
 - 结构化数据 / Structured data: [`MKP.json`](./MKP.json)
+- 规格书 PDF / Datasheet PDF: [`BKW_MKP_规格书.pdf`](./BKW_MKP_规格书.pdf)
 
 ## 概述 / Overview
 

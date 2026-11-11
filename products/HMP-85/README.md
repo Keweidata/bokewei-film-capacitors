@@ -12,6 +12,7 @@
 - 认证 / Approvals: UL/CUL E521522
 - 同系列其他版本 / Other versions in this series: [HMP-105](../HMP-105/)
 - 结构化数据 / Structured data: [`HMP-85.json`](./HMP-85.json)
+- 规格书 PDF / Datasheet PDF: [`BKW_HMP-85_规格书.pdf`](./BKW_HMP-85_规格书.pdf)
 
 ## 概述 / Overview
 

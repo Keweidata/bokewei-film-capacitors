@@ -10,6 +10,7 @@
 - 额定温度 / Rated temperature: 100℃
 - 类型 / Type: 超小型金属化聚酯膜电容器(盒装型) / Subminiature metalized polyester film capacitor (Box-type)
 - 结构化数据 / Structured data: [`SMB.json`](./SMB.json)
+- 规格书 PDF / Datasheet PDF: [`BKW_SMB_规格书.pdf`](./BKW_SMB_规格书.pdf)
 
 ## 概述 / Overview
 
